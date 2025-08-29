@@ -31,5 +31,5 @@ Try to pray Salats at mosque for 5 times a day, read The Quran daily, sleep for 
 | Fazr - Zahr | **Study** | **Work**  |
 | Zahr - Esa  | **Work**  | **Study** |
 
-### By following the routine every day , I'm getting a full cycle of **Work** and **Study**. It's like a **Sine wave**
+### A full cycle of **Work** and **Study**. It's like a **Sine wave**
 

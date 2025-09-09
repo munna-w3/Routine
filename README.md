@@ -9,18 +9,17 @@ Try to pray Salats at mosque for 5 times a day, read The Quran daily, sleep for 
  - **Drink**
  - **Sleep**
 
-## Sleep: Up to 8 hours daily
+## Sleep: Up to 8 hours
 - **Sleep**
 - **Al-Quran**
 
 
-## Study - 1 : 6 hours daily
+## Study: 6 hours
 
 - **Languages ( Rust , Solana, Cairo , Starknet, Move... )**
 - **Tool Set**
-## Study - 2 : 2 hours daily
 - **Reading reports**
-## Security Research: Up to 9 hours daily
+## Security Research: Up to 9 hours
 
 - **Any Technology** 
 

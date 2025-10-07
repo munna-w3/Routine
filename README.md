@@ -19,6 +19,8 @@ Try to pray Salats at mosque for 5 times a day, read The Quran daily, sleep for 
 - **Languages ( Rust , Solana, Cairo , Starknet, Move... )**
 - **Tool Set**
 - **Reading reports**
+- **Technical Terms**
+- **Documentations**
 ## Security Research: Up to 9 hours
 
 - **Any Technology** 

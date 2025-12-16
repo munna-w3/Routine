@@ -20,7 +20,7 @@ Try to pray Salats at mosque for 5 times a day, read The Quran daily, sleep for 
 - **Tool Set**
 - **Technical Terms**
 - **Documentations / books**
-## Security Research: Up to 9 hours
+## Work: Up to 9 hours
 
 - **Any Technology** 
 

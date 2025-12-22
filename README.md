@@ -10,20 +10,18 @@ Try to pray Salats at mosque for 5 times a day, read The Quran daily, sleep for 
  - **Sleep**
 
 ## Sleep: Up to 8 hours
-- **Sleep**
-- **Al-Quran**
 
+## Deen-E-Islam: 2 hours
 
-## Study: 5 hours
-
+## Study: 3 hours
 - **Languages ( Rust , Solana, Cairo , Starknet, Move... )**
 - **Tool Set**
 - **Technical Terms**
 - **Documentations / books**
   
 ## Work: Up to 9 hours
-- ***Reports***
-- **Any Technology** 
+- **Studying from previous Reports**
+- **Hunting Bugs** 
 
 ## Full Routine
 

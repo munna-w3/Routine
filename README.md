@@ -14,14 +14,15 @@ Try to pray Salats at mosque for 5 times a day, read The Quran daily, sleep for 
 - **Al-Quran**
 
 
-## Study: 6 === 3+3 hours
-- ***Reports (3 hours)***
+## Study: 5 hours
+
 - **Languages ( Rust , Solana, Cairo , Starknet, Move... )**
 - **Tool Set**
 - **Technical Terms**
 - **Documentations / books**
+  
 ## Work: Up to 9 hours
-
+- ***Reports***
 - **Any Technology** 
 
 ## Full Routine

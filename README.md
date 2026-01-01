@@ -25,11 +25,11 @@ Try to pray Salats at mosque for 5 times a day, read The Quran daily, sleep for 
 
 ## Full Routine
 
-|    Time     | Even Days | Odd Days  |
-| :---------: | :-------: | :-------: |
-| Esa - Fazr  | **Sleep** | **Sleep** |
-| Fazr - Zahr | **Study** | **Work**  |
-| Zahr - Esa  | **Work**  | **Study** |
+|    Salat     |  Cycles | Time (aprox) |
+| :---------: | :-------: | :-------: | 
+| night - Fazr  | **Sleep** | 8 |
+| Fazr - Asar | **Work** | 10 |
+| Asar - night | **Study**  | 6 | 
 
 ### A full cycle of **Work** and **Study**. It's like a **Sine wave**
 

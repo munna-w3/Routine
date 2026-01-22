@@ -31,5 +31,5 @@ Try to pray Salats at mosque for 5 times a day, read The Quran daily, sleep for 
 | Fazr - Asar | **Work** | 10 |
 | Asar - night | **Study**  | 4 | 
 
-### A full cycle of **Work** and **Study**. It's like a **Sine wave**
+### **Good Luck with Work and Study**
 

@@ -18,14 +18,14 @@ The Quran daily, sleep for 7+ hours , if needed take a nap for about 1+ hours af
 
 ## Fazr-Asar
   #### Security_research for 8 hours
-  #### Study reports for 2 hours
+  #### Study bugs for 2 hours
 
 ## Asar-Night
    #### Technology for 2 hours  
    - AI
    - Cryptography
    
-   #### Programming for 3 hours
+   #### Programming for 2 hours
    - Programming in rust
    - bash Scripting
 
@@ -33,10 +33,10 @@ The Quran daily, sleep for 7+ hours , if needed take a nap for about 1+ hours af
 
 ## Routine
 
-|    Clock     |  Cycles | Time (aprox) |
-| :---------: | :-------: | :-------: | 
-| night - Fazr  | **Sleep** | 10 |
-| Fazr - Asar | **Security_research** | 10 |
-| Asar - night | **Study**  | 4 | 
+|    Clock      | Time (aprox) |
+| :---------:  | :-------: | 
+| Night - Fazr   | 10 |
+| Fazr - Asar  | 10 |
+| Asar - Night | 4 | 
 
 

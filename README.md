@@ -1,35 +1,42 @@
 ### Summery
-Try to pray Salats at mosque for 5 times a day, read The Quran daily, sleep for 7+ hours , if needed take a nap for about 1+ hours after launch, eat, drink halal and the best foods you can find, do some regular exercises, keep yourself clean , be/try to be pure , and most important **Study and Hack recklessly**
+The Quran daily, sleep for 7+ hours , if needed take a nap for about 1+ hours after launch. Eat && drink halal and the best foods you can find, do some regular exercises, keep yourself clean , be/try to be pure , and most important **Study and work recklessly**
 
 ## For A Happy Life
  - ***Saulat***
  - ***Quran***
- - **Security Research**
+ - ***Actionable_knowledge***
+ - **Security_research**
  - **Eat**
  - **Drink**
  - **Sleep**
 
-## Sleep: Up to 8 hours
+## Night-Fazr
+  #### Sleep for 8 hours 
+  #### Study ***the-system-of-Islam*** for 2 hours
 
-## Deen-E-Islam: 2 hours
 
-## Study: 4 hours
-- **Languages ( Rust , Solana, Cairo , Starknet, Move... )**
-- **Tool Set**
-- **Technical Terms**
-- **Documentations / books**
-  
-## Work: Up to 10 hours
-- **Studying from previous Reports**
-- **Hunting Bugs** 
 
-## Full Routine
+## Fazr-Asar
+  #### Security_research for 8 hours
+  #### Study reports for 2 hours
 
-|    Salat     |  Cycles | Time (aprox) |
+## Asar-Night
+   #### Technology for 2 hours  
+   - AI
+   - Cryptography
+   
+   #### Programming for 3 hours
+   - Programming in rust
+   - bash Scripting
+
+
+
+## Routine
+
+|    Clock     |  Cycles | Time (aprox) |
 | :---------: | :-------: | :-------: | 
-| night - Fazr  | **Sleep** | 8 |
-| Fazr - Asar | **Work** | 10 |
+| night - Fazr  | **Sleep** | 10 |
+| Fazr - Asar | **Security_research** | 10 |
 | Asar - night | **Study**  | 4 | 
 
-### **Good Luck with Work and Study**
 

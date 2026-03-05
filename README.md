@@ -1,6 +1,7 @@
-### Summery
-The Quran daily, sleep for 7+ hours , if needed take a nap for about 1+ hours after launch. Eat && drink halal and the best foods you can find, do some regular exercises, keep yourself clean , be/try to be pure , and most important **Study and work recklessly**
+## Summery
+ #### The Quran daily, sleep for 7+ hours , if needed take a nap for about 1+ hours after launch. Eat && drink halal and the best foods you can find, do some regular exercises, keep yourself clean , be/try to be pure , and most important **Study and work recklessly**
 
+&nbsp;
 ## For A Happy Life
  - ***Saulat***
  - ***Quran***
@@ -10,33 +11,42 @@ The Quran daily, sleep for 7+ hours , if needed take a nap for about 1+ hours af
  - **Drink**
  - **Sleep**
 
-## Night-Fazr
-  #### Sleep for 8 hours 
-  #### Study ***the-system-of-Islam*** for 2 hours
+&nbsp;
+## Mind
+ #### The Quran
+ #### Other books
 
-
-
-## Fazr-Asar
-  #### Security_research for 8 hours
-  #### Study bugs for 2 hours
-
-## Asar-Night
-   #### Technology for 2 hours  
+&nbsp;
+## Body
+  #### Sleep
+  #### Eat && drink
+  #### Exercise 
+  #### Saulat 
+  
+&nbsp;
+## Asset
+  #### Security_research 
+  #### Actionable_knowledge 
+ 
+  #### Study of bugs and reports
+  
+  #### Technology 
    - AI
    - Cryptography
    
-   #### Programming for 2 hours
-   - Programming in rust
-   - bash Scripting
+  #### Programming 
+   - Rust
+   - Python
+   - Go
+   - Shell Script
 
-
-
+&nbsp;
 ## Routine
 
-|    Clock      | Time (aprox) |
-| :---------:  | :-------: | 
-| Night - Fazr   | 10 |
-| Fazr - Asar  | 10 |
-| Asar - Night | 4 | 
+| Clock | Time (aprox) |     |
+| :---: | :----------: | --- |
+| Mind  |      4       |     |
+| Body  |      10      |     |
+| Asset |      10      |     |
 
 

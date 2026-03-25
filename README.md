@@ -1,7 +1,6 @@
 ## Summery
  #### The Quran daily, sleep for 7+ hours , if needed take a nap for about 1+ hours after launch. Eat && drink halal and the best foods you can find, do some regular exercises, keep yourself clean , be/try to be pure , and most important **Study and work recklessly**
 
-&nbsp;
 ## For A Happy Life
  - ***Saulat***
  - ***Quran***
@@ -12,41 +11,40 @@
  - **Sleep**
 
 &nbsp;
-## Mind
+## Soul
+ #### Tahajjud
  #### The Quran
- #### Other books
-
-&nbsp;
-## Body
-  #### Sleep
-  #### Eat && drink
-  #### Exercise 
-  #### Saulat 
-  
-&nbsp;
-## Asset
-  #### Security_research 
+ &nbsp;
+## Mind
+  #### Reading books 
+  #### Security_research
   #### Actionable_knowledge 
- 
   #### Study of bugs and reports
+  #### Daily Chores
   
+
   #### Technology 
    - AI
    - Cryptography
    
   #### Programming 
    - Rust
-   - Python
+   - Python 
    - Go
-   - Shell Script
 
 &nbsp;
+## Body
+  #### Sleep = 7 hours
+  #### Exercise = 2 hours
+
 ## Routine
 
-| Clock | Time (aprox) |     |
-| :---: | :----------: | --- |
-| Mind  |      4       |     |
-| Body  |      10      |     |
-| Asset |      10      |     |
+| Clock | Part of the day | Time (aprox) |
+| :---: | --------------- | :----------: |
+| Soul  | (WakeUp-Fazar]  |      1       |
+| Mind  | ]Fazr-Magrib]   |      12      |
+| Body  | ]Magrib-Sleep)  |      10      |
 
-
+# Elit Education
+- The Quran
+- Books

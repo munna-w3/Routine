@@ -25,11 +25,11 @@ The Quran daily, sleep for 7+ hours, eat & drink halal and the best foods availa
 # Practical Routine
 
 ## Time Allocation
-| Sphere | Period | Duration |
-| :---: | --------------- | :----------: |
-| Soul  | WakeUp → Fazar  |      1 hour       |
-| Mind  | Fazar → Magrib  |      12 hours     |
-| Body  | Magrib → Sleep  |      10 hours     |
+| Sphere | Period         | Duration |
+| :----: | -------------- | :------: |
+|  Soul  | WakeUp → Fazar |  1 hour  |
+|  Mind  | Fazar → Asar   | 10 hours |
+|  Body  | Asar → WakUp   | 13 hours |
 
 ## Daily Execution
 
@@ -38,7 +38,7 @@ The Quran daily, sleep for 7+ hours, eat & drink halal and the best foods availa
 - Quran recitation & study
 - Spiritual preparation for the day
 
-### Mind (12 hours) - Peak Hours [Fazar to Magrib]
+### Mind (10 hours) - Peak Hours [Fazar to Asar]
 - Reading & research books
 - Security research & bug analysis
 - Actionable knowledge building
@@ -46,10 +46,9 @@ The Quran daily, sleep for 7+ hours, eat & drink halal and the best foods availa
 - Deep work sessions on: AI, Cryptography, and programming (Rust/Python/Go)
 - *Note: Break into focused 90-min sprints with short breaks*
 
-### Body (10 hours) - Evening/Night [Magrib to Sleep]
+### Body (13 hours) - Evening/Night [Asar to WakeUp]
 - Sleep: 7+ hours (minimum)
 - Optional nap: 1+ hours (if needed, after lunch)
 - Exercise: 2 hours
-- Meals: Halal, nutritious food
 - Hygiene & self-care
 - Relaxation/recovery

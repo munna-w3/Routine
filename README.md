@@ -43,7 +43,7 @@ The Quran daily, sleep for 7+ hours, eat & drink halal and the best foods availa
 - Gaining actionable knowledge
 - Daily tasks & responsibilities
 - Deep work sessions on: Cryptography and programming (Rust/Python/Go)
-- *Note: No breaks*
+
 
 ### Body (10 hours) - Evening/Night [Asar to WakeUp]
 - Sleep: 7+ hours (minimum)

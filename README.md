@@ -17,7 +17,6 @@ The Quran daily, sleep for 7+ hours, eat & drink halal and the best foods availa
 - The Quran
 - Books (strategic reading)
 - Security Research & Bug Analysis
-- Technology: AI, Cryptography
 - Programming: Rust, Python, Go
 
 ---
@@ -28,8 +27,8 @@ The Quran daily, sleep for 7+ hours, eat & drink halal and the best foods availa
 | Sphere | Period         | Duration |
 | :----: | -------------- | :------: |
 |  Soul  | WakeUp → Fazar |  1 hour  |
-|  Mind  | Fazar → Asar   | 10 hours |
-|  Body  | Asar → WakUp   | 13 hours |
+|  Mind  | Fazar → Esha   | 13 hours |
+|  Body  | Asar → WakUp   | 10 hours |
 
 ## Daily Execution
 
@@ -38,17 +37,17 @@ The Quran daily, sleep for 7+ hours, eat & drink halal and the best foods availa
 - Quran recitation & study
 - Spiritual preparation for the day
 
-### Mind (10 hours) - Peak Hours [Fazar to Asar]
+### Mind (13 hours) - Peak Hours [Fazar to Esha]
 - Reading & research books
 - Security research & bug analysis
-- Actionable knowledge building
+- Gaining actionable knowledge
 - Daily tasks & responsibilities
-- Deep work sessions on: AI, Cryptography, and programming (Rust/Python/Go)
-- *Note: Break into focused 90-min sprints with short breaks*
+- Deep work sessions on: Cryptography and programming (Rust/Python/Go)
+- *Note: No breaks*
 
-### Body (13 hours) - Evening/Night [Asar to WakeUp]
+### Body (10 hours) - Evening/Night [Asar to WakeUp]
 - Sleep: 7+ hours (minimum)
 - Optional nap: 1+ hours (if needed, after lunch)
-- Exercise: 2 hours
 - Hygiene & self-care
 - Relaxation/recovery
+- Reading Books

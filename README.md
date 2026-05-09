@@ -17,7 +17,7 @@ The Quran daily, sleep for 7+ hours, eat & drink halal and the best foods availa
 - The Quran
 - Books (strategic reading)
 - Security Research & Bug Analysis
-- Programming: Rust, Python, Go
+- Programming: Solidity, Rust, Go, Python, C/C++, Zig, ShellScrip
 
 ---
 
@@ -38,16 +38,11 @@ The Quran daily, sleep for 7+ hours, eat & drink halal and the best foods availa
 - Spiritual preparation for the day
 
 ### Mind (13 hours) - Peak Hours [Fazar to Esha]
-- Reading & research books
 - Security research & bug analysis
 - Gaining actionable knowledge
-- Daily tasks & responsibilities
-- Deep work sessions on: Cryptography and programming (Rust/Python/Go)
-- *Note: No breaks*
+- Deep study sessions on: Cryptography and programming (Rust/Python/Go)
 
 ### Body (10 hours) - Evening/Night [Asar to WakeUp]
-- Sleep: 7+ hours (minimum)
-- Optional nap: 1+ hours (if needed, after lunch)
-- Hygiene & self-care
+- Sleep: 7 hours (minimum)
 - Relaxation/recovery
-- Reading Books
+- Reading & research books

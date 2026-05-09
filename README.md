@@ -26,23 +26,23 @@ The Quran daily, sleep for 7+ hours, eat & drink halal and the best foods availa
 ## Time Allocation
 | Sphere | Period         | Duration |
 | :----: | -------------- | :------: |
-|  Soul  | WakeUp → Fazar |  1 hour  |
-|  Mind  | Fazar → Esha   | 13 hours |
 |  Body  | Asar → WakUp   | 10 hours |
+|  Mind  | Fazar → Esha   | 13 hours |
+|  Soul  | WakeUp → Fazar |  1 hour  |
 
 ## Daily Execution
-
-### Soul (1 hour) - Early Morning [WakeUp to Fazar]
-- Tahajjud (night prayer)
-- Quran recitation & study
-- Spiritual preparation for the day
-
-### Mind (13 hours) - Peak Hours [Fazar to Esha]
-- Security research & bug analysis
-- Gaining actionable knowledge
-- Deep study sessions on: Cryptography and programming (Rust/Python/Go)
 
 ### Body (10 hours) - Evening/Night [Asar to WakeUp]
 - Sleep: 7 hours (minimum)
 - Relaxation/recovery
 - Reading & research books
+- Physical Exercise : 20 minutes (max)
+### Mind (13 hours) - Peak Hours [Fazar to Esha]
+- Security research & bug analysis
+- Gain actionable knowledge
+- Deep study sessions on: Cryptography and programming 
+### Soul (1 hour) - Early Morning [WakeUp to Fazar]
+- Tahajjud (night prayer)
+- Quran recitation & study
+- Spiritual preparation for the day
+

@@ -17,7 +17,7 @@ The Quran daily, sleep for 7+ hours, eat & drink halal and the best foods availa
 - The Quran
 - Books (strategic reading)
 - Security Research & Bug Analysis
-- Programming: Solidity, Rust, Go, Python, C/C++, Zig, ShellScrip
+- Programming: Solidity, Rust, Go, Python, C/C++, Zig, ShellScript
 
 ---
 
